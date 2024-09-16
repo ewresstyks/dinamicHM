@@ -1,9 +1,4 @@
-//
-//  main.cpp
-//  dinamic
-//
-//  Created by Quals on 16.09.2024.
-//
+
 
 #include <iostream>
 using namespace std;
